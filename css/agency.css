@@ -174,7 +174,7 @@ font-family: 'Source Serif Pro', serif;
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header-image.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -328,6 +328,7 @@ font-family: 'Source Serif Pro', serif;
   font-style: italic;
   margin: 20px 0 30px;
 font-family: 'Source Serif Pro', serif;
+}
 
 .portfolio-modal .modal-content ul.list-inline {
   margin-top: 0;
